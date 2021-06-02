@@ -1,0 +1,103 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="90">
+            <item index="0" class="java.lang.String" itemvalue="django-cities-light" />
+            <item index="1" class="java.lang.String" itemvalue="greenlet" />
+            <item index="2" class="java.lang.String" itemvalue="django-rest-passwordreset" />
+            <item index="3" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="4" class="java.lang.String" itemvalue="django-rest-framework-social-oauth2" />
+            <item index="5" class="java.lang.String" itemvalue="html2text" />
+            <item index="6" class="java.lang.String" itemvalue="requests" />
+            <item index="7" class="java.lang.String" itemvalue="django-storages" />
+            <item index="8" class="java.lang.String" itemvalue="drf-yasg" />
+            <item index="9" class="java.lang.String" itemvalue="django-extensions" />
+            <item index="10" class="java.lang.String" itemvalue="python-magic" />
+            <item index="11" class="java.lang.String" itemvalue="Pygments" />
+            <item index="12" class="java.lang.String" itemvalue="stripe" />
+            <item index="13" class="java.lang.String" itemvalue="gevent" />
+            <item index="14" class="java.lang.String" itemvalue="rest-framework-generic-relations" />
+            <item index="15" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="16" class="java.lang.String" itemvalue="pendulum" />
+            <item index="17" class="java.lang.String" itemvalue="django-su" />
+            <item index="18" class="java.lang.String" itemvalue="django-cors-headers" />
+            <item index="19" class="java.lang.String" itemvalue="Markdown" />
+            <item index="20" class="java.lang.String" itemvalue="coverage" />
+            <item index="21" class="java.lang.String" itemvalue="dj-database-url" />
+            <item index="22" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="23" class="java.lang.String" itemvalue="django-debug-toolbar" />
+            <item index="24" class="java.lang.String" itemvalue="pydash" />
+            <item index="25" class="java.lang.String" itemvalue="python-memcached" />
+            <item index="26" class="java.lang.String" itemvalue="boto3" />
+            <item index="27" class="java.lang.String" itemvalue="drf-extensions" />
+            <item index="28" class="java.lang.String" itemvalue="django-filter" />
+            <item index="29" class="java.lang.String" itemvalue="Django" />
+            <item index="30" class="java.lang.String" itemvalue="python-decouple" />
+            <item index="31" class="java.lang.String" itemvalue="pytz" />
+            <item index="32" class="java.lang.String" itemvalue="twilio" />
+            <item index="33" class="java.lang.String" itemvalue="Pillow" />
+            <item index="34" class="java.lang.String" itemvalue="protobuf" />
+            <item index="35" class="java.lang.String" itemvalue="Babel" />
+            <item index="36" class="java.lang.String" itemvalue="texttable" />
+            <item index="37" class="java.lang.String" itemvalue="pyinstrument-cext" />
+            <item index="38" class="java.lang.String" itemvalue="lml" />
+            <item index="39" class="java.lang.String" itemvalue="boltons" />
+            <item index="40" class="java.lang.String" itemvalue="kombu" />
+            <item index="41" class="java.lang.String" itemvalue="redis" />
+            <item index="42" class="java.lang.String" itemvalue="appdirs" />
+            <item index="43" class="java.lang.String" itemvalue="filelock" />
+            <item index="44" class="java.lang.String" itemvalue="virtualenvwrapper" />
+            <item index="45" class="java.lang.String" itemvalue="django-model-utils" />
+            <item index="46" class="java.lang.String" itemvalue="vine" />
+            <item index="47" class="java.lang.String" itemvalue="django-simple-history" />
+            <item index="48" class="java.lang.String" itemvalue="django-oauth-toolkit" />
+            <item index="49" class="java.lang.String" itemvalue="asgiref" />
+            <item index="50" class="java.lang.String" itemvalue="django-jsonfield" />
+            <item index="51" class="java.lang.String" itemvalue="appnope" />
+            <item index="52" class="java.lang.String" itemvalue="jedi" />
+            <item index="53" class="java.lang.String" itemvalue="glom" />
+            <item index="54" class="java.lang.String" itemvalue="backcall" />
+            <item index="55" class="java.lang.String" itemvalue="pyexcel" />
+            <item index="56" class="java.lang.String" itemvalue="distlib" />
+            <item index="57" class="java.lang.String" itemvalue="djangorestframework-gis" />
+            <item index="58" class="java.lang.String" itemvalue="pbr" />
+            <item index="59" class="java.lang.String" itemvalue="numpy" />
+            <item index="60" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="61" class="java.lang.String" itemvalue="pyinstrument" />
+            <item index="62" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="63" class="java.lang.String" itemvalue="celery" />
+            <item index="64" class="java.lang.String" itemvalue="virtualenv-clone" />
+            <item index="65" class="java.lang.String" itemvalue="ruamel.yaml.clib" />
+            <item index="66" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="67" class="java.lang.String" itemvalue="ipinfo" />
+            <item index="68" class="java.lang.String" itemvalue="billiard" />
+            <item index="69" class="java.lang.String" itemvalue="stevedore" />
+            <item index="70" class="java.lang.String" itemvalue="parso" />
+            <item index="71" class="java.lang.String" itemvalue="amqp" />
+            <item index="72" class="java.lang.String" itemvalue="python-utils" />
+            <item index="73" class="java.lang.String" itemvalue="progressbar2" />
+            <item index="74" class="java.lang.String" itemvalue="maxminddb" />
+            <item index="75" class="java.lang.String" itemvalue="pyexcel-io" />
+            <item index="76" class="java.lang.String" itemvalue="ruamel.yaml" />
+            <item index="77" class="java.lang.String" itemvalue="GDAL" />
+            <item index="78" class="java.lang.String" itemvalue="ipython" />
+            <item index="79" class="java.lang.String" itemvalue="face" />
+            <item index="80" class="java.lang.String" itemvalue="django-ipware" />
+            <item index="81" class="java.lang.String" itemvalue="django-fsm" />
+            <item index="82" class="java.lang.String" itemvalue="cachetools" />
+            <item index="83" class="java.lang.String" itemvalue="itypes" />
+            <item index="84" class="java.lang.String" itemvalue="hashids" />
+            <item index="85" class="java.lang.String" itemvalue="inflection" />
+            <item index="86" class="java.lang.String" itemvalue="pip-tools" />
+            <item index="87" class="java.lang.String" itemvalue="babel" />
+            <item index="88" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="89" class="java.lang.String" itemvalue="xlsxwriter" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
